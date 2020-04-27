@@ -1366,3 +1366,7 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+.centering{
+  justify-content: center;
+}
