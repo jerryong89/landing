@@ -1375,3 +1375,17 @@ section {
   display: flex;
   justify-content: center;
 }
+
+.topMargin{
+  margin-top: 10px;
+}
+
+.vl {
+  border-left: 1px solid #d4e9e6;
+  height: 50px;
+}
+
+.lightgrey{
+  border-top: 1px solid #d4e9e6;
+  margin-top: 10px;
+}
