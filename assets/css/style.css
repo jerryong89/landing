@@ -1389,3 +1389,11 @@ section {
   border-top: 1px solid #d4e9e6;
   margin-top: 10px;
 }
+
+.lightroom {
+  margin-top: -30px;
+}
+
+.photoshop {
+  margin-top: 44px;
+}
